@@ -1,2 +1,3 @@
-# anita-tryon
-Anita Diamonds - try on your finger
+# Diamond try-on
+
+See a diamond on your own finger, at its true size.
